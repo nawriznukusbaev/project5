@@ -68,7 +68,7 @@ const CERTIFICATES = [
     photo: "/Nurqasim.jpg",
   },
      {
-    id: "nurqasim",
+    id: "jaxanger",
     number: "AATeB2-2026-0000-0578",
     name: "Bisenbaev Jaxangir",
     dob: "07/09/2003",
