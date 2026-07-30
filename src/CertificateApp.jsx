@@ -70,7 +70,7 @@ const CERTIFICATES = [
      {
     id: "jaxanger",
     number: "AATeB2-2026-0000-0578",
-    name: "Bisenbaev Jaxangir",
+    name: "Jaxanger Bisenbaev",
     dob: "07/09/2003",
     takenOn: "29/05/2024",
     validUntil: "28/05/2027",
