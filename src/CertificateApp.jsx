@@ -66,6 +66,17 @@ const CERTIFICATES = [
     total: "67%",
     status: "PASSED",
     photo: "/Nurqasim.jpg",
+  },
+     {
+    id: "nurqasim",
+    number: "AATeB2-2026-0000-0578",
+    name: "Bisenbaev Jaxangir",
+    dob: "07/09/2003",
+    takenOn: "29/05/2024",
+    validUntil: "28/05/2027",
+    total: "67%",
+    status: "PASSED",
+    photo: "/jaxanger.jpg",
   }
 ];
 
